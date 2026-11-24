@@ -1,0 +1,9 @@
+# Compiled binaries and object files
+Source_Code/clinic_sim
+Source_Code/clinic_sim.exe
+*.o
+*.out
+*.exe
+
+# OS metadata
+.DS_Store
