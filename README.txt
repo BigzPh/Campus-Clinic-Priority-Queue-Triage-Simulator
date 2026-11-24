@@ -35,7 +35,8 @@ CS101_[PLACEHOLDER: GroupXX]_ClinicQueue/
   Documentation/
     Project_Documentation.pdf   (and Project_Documentation.md source)
   Presentation/
-    Presentation_Outline.md     (use to build Presentation.pptx / .mp4)
+    Presentation.pptx           (10-slide PowerPoint deck with speaker notes)
+    Presentation_Outline.md     (script & timing guide)
   Source_Code/
     clinic.h
     main.c
@@ -80,9 +81,10 @@ to populate 5 realistic triage cases immediately, then test:
 BEFORE CREATING FINAL SUBMISSION ZIP
 ------------------------------------------------------------------------
 1. Replace all [PLACEHOLDER: ...] entries in this README.txt,
-   Documentation/Project_Documentation.md (then regenerate PDF), and
-   Presentation/.
-2. Export your slides or video to Presentation/Presentation.pptx (or .mp4).
+   Documentation/Project_Documentation.md, Presentation/Presentation.pptx,
+   and Presentation/Presentation_Outline.md.
+2. Export Documentation/Project_Documentation.md to
+   Documentation/Project_Documentation.pdf.
 3. Remove any compiled executables (clinic_sim / clinic_sim.exe) from
    Source_Code/ if your instructor requires source-only submission.
 4. Package into: CS101_<GroupNumber>_ClinicQueue.zip
